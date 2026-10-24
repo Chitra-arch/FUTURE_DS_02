@@ -27,6 +27,17 @@ Customer churn can reduce recurring revenue and long-term customer value. This p
 4. **Cohort & Retention Analysis** — Signup cohort comparisons, customer distribution, tenure, and revenue.
 5. **Business Insights & Recommendations** — Findings and proposed retention actions.
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
+
+### Churn Drivers
+![Churn Drivers](screenshots/churn-drivers.png)
+
+### Cohort & Retention Analysis
+![Cohort & Retention Analysis](screenshots/cohort-analysis.png)
+
 ## Key Findings
 - Overall churn rate: approximately **26.20%**.
 - Overall retention rate: approximately **73.80%**.
