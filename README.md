@@ -30,13 +30,13 @@ Customer churn can reduce recurring revenue and long-term customer value. This p
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](executive-overview.png)
 
 ### Churn Drivers
-![Churn Drivers](screenshots/churn-drivers.png)
+![Churn Drivers](churn-drivers.png)
 
 ### Cohort & Retention Analysis
-![Cohort & Retention Analysis](screenshots/cohort-analysis.png)
+![Cohort & Retention Analysis](cohort-analysis.png)
 
 ## Key Findings
 - Overall churn rate: approximately **26.20%**.
